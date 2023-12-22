@@ -53,9 +53,9 @@ Team members will...
 
 Key dates, deadlines, and milestones for our project are:
 
-- [Event]: Date
+- [Event]:
 - MVP Demo:
-- [Event]: Date
+- [Event]:
 - Final Demo:
 
 ## Weekly Sprint Report Schedule
