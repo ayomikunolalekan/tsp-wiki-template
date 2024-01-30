@@ -1,38 +1,26 @@
-> **Instructions**
->
-> Write a summary of what your team accomplished this sprint.
->
-> Steps:
->
-> 1. Ask your teammates to share what they completed, with links to the artifacts.
-> 2. Ask your teammates to share any blockers or challenges they faced or are facing.
->
-> The sprint report is a group submission, but one member of your team will write it each week.
-
-**Author:** Victor Idowu
+**Author:** Olalekan Ayomikun
 
 ## What did your team accomplish this week?
+In the last sprint, my team and I were able to get started on development. We were able to initialize our flask application and we also discussed and created some of the tables that we need in our database. We were also able to work on our Figma UI designs, enabling us to have a model we can follow when we start working on the frontend of our application. 
 
-Write a one-sentence summary of each task completed. Included a link to the artifact (project task and commit) for each
-task that was completed. You can link to a github commit, a figma file, a google doc, a youtube video, or the most
-relevant url for the task.
-
-| Who | Link(s) | Task Description |
-| ----- | --------- | ------------------ |
-|     |         |                  |
-|     |         |                  |
+### Links to tasks completed:
+* Raymond Adu-Adjei - Task 1: [Initializing the flask app and creating the database](https://github.com/ayomikunolalekan/TaskFlowPro/blob/main/app.py)  
+* Olalekan Ayomikun - Task 2: [Changes to the Figma UI designs](https://www.figma.com/file/NBMVyQ8S9XiF3b2UwmyJf1/TaskFlowPro?type=design&node-id=0-1&mode=design&t=ugQ6OCWIoZNvSdBs-0)  
+* Victor Idowu - Task 3: Helped in deciding database table and worked on task list feature which allows users to see all their tasks.
 
 ## What challenges did your team face?
 
 What challenges did your team face? What are you or your teammates blocked on?
 
-* I was blocked on...
+* This week, the only challenge I think my team might have faced was not starting the tasks earlier and two of us not being able to meet as much as we wanted and also two of us didn't push to the Github repository, so it is sort of unclear if we were able to complete our assigned tasks.
 
 ## What is your plan for next week?
 
 What tasks will your team complete? What features will your team build?
 
-* [Teammate] Task 1...
-* [Teammate] Feature 2...
+* Olalekan Ayomikun: Creating authentication routes like signup, sign in and sign out and working on the create tasks page.    
+* Raymond Adu-Adjei: Creating the Edit task page, where users will be able to edit their tasks.   
+* Victor Idowu: Creating the dashboard page where users will be able to see the preview of their task/tasks for the day and also working on the task list feature that allows users to see all their created tasks.
 
 ## Any other notes or observations from this week?
+No other notes
