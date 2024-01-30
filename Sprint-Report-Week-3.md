@@ -16,7 +16,7 @@ In the last sprint, my team and I were able to get started on development. We we
 
 
 * Olalekan Ayomikun: Creating authentication routes like signup, sign in and sign out and working on the create tasks page.    
-* Raymond Adu-Adjei: Creating the Edit task page, where users will be able to edit their tasks.   
+* Raymond Adu-Adjei: Creating the frontend for the sign up, sign out and sign in routes.   
 * Victor Idowu: Creating the dashboard page where users will be able to see the preview of their task/tasks for the day and also working on the task list feature that allows users to see all their created tasks.
 
 ## Any other notes or observations from this week?
