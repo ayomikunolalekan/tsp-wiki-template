@@ -10,13 +10,10 @@ In the last sprint, my team and I were able to get started on development. We we
 
 ## What challenges did your team face?
 
-What challenges did your team face? What are you or your teammates blocked on?
-
 * This week, the only challenge I think my team might have faced was not starting the tasks earlier and two of us not being able to meet as much as we wanted and also two of us didn't push to the Github repository, so it is sort of unclear if we were able to complete our assigned tasks.
 
 ## What is your plan for next week?
 
-What tasks will your team complete? What features will your team build?
 
 * Olalekan Ayomikun: Creating authentication routes like signup, sign in and sign out and working on the create tasks page.    
 * Raymond Adu-Adjei: Creating the Edit task page, where users will be able to edit their tasks.   
